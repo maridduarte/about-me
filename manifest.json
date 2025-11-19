@@ -1,0 +1,20 @@
+{
+  "name": "Site da Mariana",
+  "short_name": "Mariana",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#3fb8b8",
+  "theme_color": "#3fb8b8",
+  "icons": [
+    {
+      "src": "icone.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icone.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
